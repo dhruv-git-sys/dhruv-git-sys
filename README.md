@@ -12,6 +12,9 @@
 </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruv-git-sys&theme=tokyonight&hide_border=true&border_radius=6" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruv-git-sys&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-git-sys&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 <!--
 **dhruv-git-sys/dhruv-git-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
