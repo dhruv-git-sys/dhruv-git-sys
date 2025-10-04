@@ -52,7 +52,7 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://github.com/dhruv-git-sys"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
-  <a href="https://www.linkedin.com/in/dhruv-agrawal"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
+  <a href="https://www.linkedin.com/in/dhruv-agrawal-590754284/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
   <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" height="50" /></a>
   <a href="mailto:dhruvagrawal963@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
 </p>
